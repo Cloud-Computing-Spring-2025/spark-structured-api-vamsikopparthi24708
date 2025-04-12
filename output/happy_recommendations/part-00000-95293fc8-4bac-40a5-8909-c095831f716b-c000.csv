@@ -1,0 +1,16 @@
+user_id,song_id,title,artist
+user_1,song_14,Song Title 14,Artist 3
+user_1,song_82,Song Title 82,Artist 14
+user_1,song_90,Song Title 90,Artist 18
+user_2,song_90,Song Title 90,Artist 18
+user_2,song_10,Song Title 10,Artist 19
+user_2,song_73,Song Title 73,Artist 3
+user_3,song_74,Song Title 74,Artist 8
+user_3,song_89,Song Title 89,Artist 18
+user_3,song_32,Song Title 32,Artist 2
+user_4,song_5,Song Title 5,Artist 2
+user_4,song_32,Song Title 32,Artist 2
+user_4,song_59,Song Title 59,Artist 10
+user_5,song_90,Song Title 90,Artist 18
+user_5,song_48,Song Title 48,Artist 1
+user_5,song_74,Song Title 74,Artist 8
